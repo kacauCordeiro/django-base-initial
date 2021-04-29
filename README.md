@@ -1,2 +1,2 @@
-# django-initial
+# djangobase
 Base de um projeto Django.
